@@ -1,4 +1,5 @@
 __pycache__/
-parameter_store_to_dot_env.egg-info/
 .idea/
+aws_oil.egg-info/
+build/
 
